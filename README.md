@@ -53,6 +53,18 @@ The **text generator** was trained on:
 
 ---
 
+## 📊 Training Graphs
+
+### Classification Model (LSTM)
+
+![Classification Training Graph](path/to/classification_training_graph.png)
+
+### Generation Model (LSTM-GRU)
+
+![Generation Training Graph](path/to/generation_training_graph.png)
+
+---
+
 ## Tech Stack
 
 - **Python**
