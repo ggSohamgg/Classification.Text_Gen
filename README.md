@@ -66,35 +66,24 @@ The **text generator** was trained on:
 ---
 ---
 
+---
+
 ## 📈 Evaluation Metrics
 
-### 🔹 Classification Results
-
-| Class     | Precision | Recall | F1-Score | Support |
-|-----------|-----------|--------|----------|---------|
-| Science   | 0.85      | 0.88   | 0.86     | 989     |
-| Math      | 0.94      | 0.93   | 0.93     | 1013    |
-| History   | 0.89      | 0.87   | 0.88     | 1009    |
-
-- **Overall Accuracy**: 89%  
-- **Macro Average F1-Score**: 0.89  
-- **Weighted Average F1-Score**: 0.89
-
----
-
-### 🔹 Text Generation Results
-
-| Metric                | Value     |
-|-----------------------|-----------|
-| Training Accuracy     | 41.43%    |
-| Training Loss         | 3.0162    |
-| Training Perplexity   | 20.41     |
-| Validation Accuracy   | 33.84%    |
-| Validation Loss       | 4.4889    |
-| Validation Perplexity | 89.02     |
-| Learning Rate         | 5e-4      |
+| **Classification Results**                                      | **Text Generation Results**                                |
+|------------------------------------------------------------------|------------------------------------------------------------|
+| **Class**   | **Precision** | **Recall** | **F1-Score** | **Support** | **Metric**                | **Value**     |
+|------------|---------------|------------|--------------|-------------|---------------------------|---------------|
+| Science    | 0.85          | 0.88       | 0.86         | 989         | Training Accuracy         | 41.43%        |
+| Math       | 0.94          | 0.93       | 0.93         | 1013        | Training Loss             | 3.0162        |
+| History    | 0.89          | 0.87       | 0.88         | 1009        | Training Perplexity       | 20.41         |
+| **Accuracy** | **0.89**     |            |              | **3011**    | Validation Accuracy       | 33.84%        |
+| Macro avg  | 0.89          | 0.89       | 0.89         | 3011        | Validation Loss           | 4.4889        |
+| Weighted avg | 0.89        | 0.89       | 0.89         | 3011        | Validation Perplexity     | 89.02         |
+|            |               |            |              |             | Learning Rate             | 5e-4          |
 
 ---
+
 
 ## Tech Stack
 
