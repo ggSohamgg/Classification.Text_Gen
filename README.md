@@ -40,7 +40,7 @@ The **classification model** was trained on:
 - [`burgerbee/history_wiki`](https://huggingface.co/datasets/burgerbee/history_wiki) – Historical Wikipedia content  
 - [`math-ai/AutoMathText`](https://huggingface.co/datasets/math-ai/AutoMathText) – Mathematical explanations  
 - [`allenai/sciq`](https://huggingface.co/datasets/allenai/sciq) – Science questions and explanations  
-- 📝 **CBSE academic text**, saved as: `classification_text.csv`
+- 📝 **CBSE academic text**, all these 4 mixed and saved as: `classification_text.csv`
 
 ### 🔸 Used for Text Generation
 
@@ -56,7 +56,7 @@ The **text generator** was trained on:
 
 - **Python**
 - **Gradio** – UI with tabs for classification & generation
-- **PyTorch** – LSTM-based models
+- **Tensorflow** – LSTM-based models
 - **Hugging Face Datasets**
 - **Pickle** – For tokenizer serialization
 
