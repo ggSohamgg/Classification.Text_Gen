@@ -1,5 +1,7 @@
 # 📘 Science Text Analyzer
 
+🔗 **Live Demo**: [Hugging Face Space](https://huggingface.co/spaces/nnsohamnn/Classification.Text_Gen)
+
 The **Science Text Analyzer** is a dual-purpose deep learning application that:
 
 - 🔍 **Classifies academic text** into **Science**, **Mathematics**, or **History**
@@ -40,7 +42,7 @@ The **classification model** was trained on:
 - [`burgerbee/history_wiki`](https://huggingface.co/datasets/burgerbee/history_wiki) – Historical Wikipedia content  
 - [`math-ai/AutoMathText`](https://huggingface.co/datasets/math-ai/AutoMathText) – Mathematical explanations  
 - [`allenai/sciq`](https://huggingface.co/datasets/allenai/sciq) – Science questions and explanations  
-- 📝 **CBSE academic text**, all these 4 mixed and saved as: `classification_text.csv`
+- 📝 **CBSE academic text**, combined with the above and saved as: `classification_text.csv`
 
 ### 🔸 Used for Text Generation
 
@@ -48,7 +50,7 @@ The **text generator** was trained on:
 
 - [`camel-ai/biology`](https://huggingface.co/datasets/camel-ai/biology) – Biology-focused academic dialogues and content  
 - [`camel-ai/chemistry`](https://huggingface.co/datasets/camel-ai/chemistry) – Chemistry domain instruction-response pairs  
-- [`allenai/sciq`](https://huggingface.co/datasets/allenai/sciq) – Also used for generation alongside classification  
+- [`camel-ai/math`](https://huggingface.co/datasets/camel-ai/chemistry) – Mathematics focused dataset
 
 ---
 
@@ -59,5 +61,3 @@ The **text generator** was trained on:
 - **Tensorflow** – LSTM-based models
 - **Hugging Face Datasets**
 - **Pickle** – For tokenizer serialization
-
----
