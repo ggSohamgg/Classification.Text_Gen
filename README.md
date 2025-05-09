@@ -5,7 +5,7 @@
 The **Science Text Analyzer** is a dual-purpose deep learning application that:
 
 -  **Classifies academic text** into **Science**, **Mathematics**, or **History**
--  **Generates educational content**, especially in **Physics**, **Chemistry**, and **Biology**
+-  **Generates Scientific content**, especially in **Physics**, **Chemistry**, and **Biology**
 
 Built with **LSTM models** and trained on carefully curated academic datasets, this tool supports **educational research**, **curriculum support**, and **content creation**.
 
