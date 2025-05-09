@@ -4,14 +4,14 @@
 
 The **Science Text Analyzer** is a dual-purpose deep learning application that:
 
-- 🔍 **Classifies academic text** into **Science**, **Mathematics**, or **History**
-- 🧠 **Generates educational content**, especially in **Physics**, **Chemistry**, and **Biology**
+-  **Classifies academic text** into **Science**, **Mathematics**, or **History**
+-  **Generates educational content**, especially in **Physics**, **Chemistry**, and **Biology**
 
 Built with **LSTM models** and trained on carefully curated academic datasets, this tool supports **educational research**, **curriculum support**, and **content creation**.
 
 ---
 
-## 🚀 Features
+## Features
 
 ### 🔹 Text Classification
 
@@ -33,7 +33,7 @@ Built with **LSTM models** and trained on carefully curated academic datasets, t
 
 ---
 
-## 📚 Datasets
+##  Datasets
 
 ### 🔸 Used for Classification
 
@@ -42,7 +42,7 @@ The **classification model** was trained on:
 - [`burgerbee/history_wiki`](https://huggingface.co/datasets/burgerbee/history_wiki) – Historical Wikipedia content  
 - [`math-ai/AutoMathText`](https://huggingface.co/datasets/math-ai/AutoMathText) – Mathematical explanations  
 - [`allenai/sciq`](https://huggingface.co/datasets/allenai/sciq) – Science questions and explanations  
-- 📝 **CBSE academic text**, combined with the above and saved as: `classification_text.csv`
+-  **CBSE academic text**, combined with the above and saved as: `classification_text.csv`
 
 ### 🔸 Used for Text Generation
 
@@ -54,7 +54,7 @@ The **text generator** was trained on:
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **Python**
 - **Gradio** – UI with tabs for classification & generation
