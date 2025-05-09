@@ -61,7 +61,7 @@ The **text generator** was trained on:
 
 ### Generation Model (LSTM-GRU)
 
-![Generation Training Graph](path/to/generation_training_graph.png)
+![Generation Training Graph](generation_training_graph.png)
 
 ---
 
