@@ -67,7 +67,7 @@ The **text generator** was trained on:
 
 - [`camel-ai/biology`](https://huggingface.co/datasets/camel-ai/biology) – Biology-focused academic dialogues and content  
 - [`camel-ai/chemistry`](https://huggingface.co/datasets/camel-ai/chemistry) – Chemistry domain instruction-response pairs  
-- [`camel-ai/math`](https://huggingface.co/datasets/camel-ai/chemistry) – Mathematics focused dataset
+- [`camel-ai/physics`](https://huggingface.co/datasets/camel-ai/physics) – Physics focused dataset
 
 ---
 
