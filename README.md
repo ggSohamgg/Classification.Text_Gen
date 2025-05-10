@@ -22,7 +22,7 @@ Simply visit the [Hugging Face Space](https://huggingface.co/spaces/nnsohamnn/Cl
 2. Enter a scientific prompt in the input box
 3. Adjust the length (maximum 60 words) and temperature sliders as desired
 4. Click "Generate" to create scientific text based on your prompt
-5. Note: Longer generations may take more time to process
+5. **Note**: Longer generations may take more time to process
 
 ---
 
