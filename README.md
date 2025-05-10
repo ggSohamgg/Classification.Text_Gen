@@ -70,9 +70,9 @@ The **text generator** was trained on:
 
 | Class     | Precision | Recall | F1-Score | Support |
 |-----------|-----------|--------|----------|---------|
-| Science   | 0.86      | 0.88   | 0.87     | 989     |
-| Math      | 0.93      | 0.93   | 0.93     | 1013    |
-| History   | 0.90      | 0.88   | 0.89     | 1009    |
+| Science   | 0.84      | 0.90   | 0.87     | 989     |
+| Math      | 0.94      | 0.93   | 0.94     | 1013    |
+| History   | 0.92      | 0.86   | 0.89     | 1009    |
 
 - **Overall Accuracy**: 90%  
 - **Macro Average F1-Score**: 0.90  
