@@ -26,7 +26,7 @@ Built with **LSTM models** and trained on carefully curated academic datasets, t
 
 - Generates scientific-style paragraphs based on user prompts
 - Focus areas: **Physics**, **Chemistry**, and **Biology**
-- Uses a **custom hybrid LSTM-GRU language model** trained on curated educational corpora
+- Uses a **custom hybrid LSTM-GRU language model** trained on curated educational corpora, with **mixed-precision FP16** training.
 - Configurable:
   - **Prompt**
   - **Temperature** (creativity)
