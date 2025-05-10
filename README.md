@@ -46,7 +46,7 @@ Simply visit the [Hugging Face Space](https://huggingface.co/spaces/nnsohamnn/Cl
   - **Prompt**
   - **Temperature** (creativity)
   - **Max Length**
-- For detailed analysis, see **Technical_Documentation.pdf** in the **extra/Technical_Documentation.pdf** directory.
+- For detailed analysis, see ![Technical_Documentation.pdf](extra/Technical_Documentation.pdf)
 
 ---
 
