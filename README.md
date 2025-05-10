@@ -57,11 +57,11 @@ The **text generator** was trained on:
 
 ### Classification Model (LSTM)
 
-![Classification Training Graph](classification_training_graph.png)
+![Classification Training Graph](plot/classification_training_graph.png)
 
 ### Generation Model (LSTM-GRU)
 
-![Generation Training Graph](generation_training_graph.png)
+![Generation Training Graph](plot/generation_training_graph.png)
 
 ---
 ## 📈 Evaluation Metrics
