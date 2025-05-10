@@ -69,15 +69,16 @@ The **text generator** was trained on:
 ### 🔹 Classification Results
 
 | Class     | Precision | Recall | F1-Score | Support |
-|-----------|-----------|--------|----------|---------|
+| :-------- | :-------- | :----- | :------- | :------ |
 | Science   | 0.84      | 0.90   | 0.87     | 989     |
 | Math      | 0.94      | 0.93   | 0.94     | 1013    |
 | History   | 0.92      | 0.86   | 0.89     | 1009    |
+|           |           |        |          |         |
+| **Accuracy** |        |        | **0.90** | **3011**|
+| Macro Avg | 0.90      | 0.90   | 0.90     | 3011    |
+| Weighted Avg| 0.90      | 0.90   | 0.90     | 3011    |
 
-- **Overall Accuracy**: 90%  
-- **Macro Average F1-Score**: 0.90  
-- **Weighted Average F1-Score**: 0.90
-
+**Overall Test Accuracy: 90.00%**
 ---
 
 ### 🔹 Text Generation Results
