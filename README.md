@@ -1,13 +1,28 @@
 # 📘 Science Text Analyzer
 
-🔗 **Live Demo**: [Hugging Face Space](https://huggingface.co/spaces/nnsohamnn/Classification.Text_Gen)
-
 The **Science Text Analyzer** is a dual-purpose deep learning application that:
 
 -  **Classifies academic text** into **Science**, **Mathematics**, or **History**
 -  **Generates Scientific content**, especially in **Physics**, **Chemistry**, and **Biology**
 
 Built with **LSTM models** and trained on carefully curated academic datasets, this tool supports **educational research**, **curriculum support**, and **content creation**.
+
+---
+## 🚀 How to Use
+
+Simply visit the [Hugging Face Space](https://huggingface.co/spaces/nnsohamnn/Classification.Text_Gen) to use the application directly in your browser. No installation required!
+
+### For Text Classification:
+1. Navigate to the "Classify Text" tab
+2. Enter or paste your academic text in the input box
+3. Click "Classify" to see the predicted subject and confidence score
+
+### For Text Generation:
+1. Navigate to the "Generate Text" tab
+2. Enter a scientific prompt in the input box
+3. Adjust the length (maximum 60 words) and temperature sliders as desired
+4. Click "Generate" to create scientific text based on your prompt
+5. Note: Longer generations may take more time to process
 
 ---
 
