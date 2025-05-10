@@ -70,13 +70,13 @@ The **text generator** was trained on:
 
 | Class     | Precision | Recall | F1-Score | Support |
 |-----------|-----------|--------|----------|---------|
-| Science   | 0.85      | 0.88   | 0.86     | 989     |
-| Math      | 0.94      | 0.93   | 0.93     | 1013    |
-| History   | 0.89      | 0.87   | 0.88     | 1009    |
+| Science   | 0.86      | 0.88   | 0.87     | 989     |
+| Math      | 0.93      | 0.93   | 0.93     | 1013    |
+| History   | 0.90      | 0.88   | 0.89     | 1009    |
 
-- **Overall Accuracy**: 89%  
-- **Macro Average F1-Score**: 0.89  
-- **Weighted Average F1-Score**: 0.89
+- **Overall Accuracy**: 90%  
+- **Macro Average F1-Score**: 0.90  
+- **Weighted Average F1-Score**: 0.90
 
 ---
 
