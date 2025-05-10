@@ -79,6 +79,7 @@ The **text generator** was trained on:
 | Weighted Avg| 0.90      | 0.90   | 0.90     | 3011    |
 
 **Overall Test Accuracy: 90.00%**
+
 ---
 
 ### 🔹 Text Generation Results
