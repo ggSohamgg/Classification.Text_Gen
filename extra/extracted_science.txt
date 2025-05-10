@@ -1,61 +1,103 @@
-A complete chemical equation represents the reactants, products and their physical states symbolically.
-A chemical equation is balanced so that the numbers of atoms of each type involved in a chemical reaction are the same on the reactant and product sides of the equation. Equations must always be balanced.
+A complete chemical equation represents the reactants, products and their physical
+states symbolically.
+A chemical equation is balanced so that the numbers of atoms of each type involved
+in a chemical reaction are the same on the reactant and product sides of the
+equation. Equations must always be balanced.
 In a combination reaction two or more substances combine to form a new single
 substance.
-Decomposition reactions are opposite to combination reactions. In a decomposition reaction, a single substance decomposes to give two or more substances.
-Reactions in which heat is given out along with the products are called exothermic reactions.
+Decomposition reactions are opposite to combination reactions. In a decomposition
+reaction, a single substance decomposes to give two or more substances.
+Reactions in which heat is given out along with the products are called exothermic
+reactions.
 Reactions in which energy is absorbed are known as endothermic reactions.
-When an element displaces another element from its compound, a displacement reaction occurs.
-Two different atoms or groups of atoms (ions) are exchanged in double displacement reactions.
+When an element displaces another element from its compound, a displacement
+reaction occurs.
+Two different atoms or groups of atoms (ions) are exchanged in double displacement
+reactions.
 Precipitation reactions produce insoluble salts.
 Reactions also involve the gain or loss of oxygen or hydrogen by substances.
-Oxidation is the gain of oxygen or loss of hydrogen. Reduction is the loss of oxygen or gain of hydrogen.
-Acid-base indicators are dyes or mixtures of dyes which are used to indicate the presence of acids and bases.
+Oxidation is the gain of oxygen or loss of hydrogen. Reduction is the loss of oxygen
+or gain of hydrogen.
+Acid-base indicators are dyes or mixtures of dyes which are used to indicate the
+presence of acids and bases.
 Acidic nature of a substance is due to the formation of H+(aq) ions in solution.
-Formation of OH–(aq) ions in solution is responsible for the basic nature of a substance.
-When an acid reacts with a metal, hydrogen gas is evolved and a corresponding salt is formed.
-When a base reacts with a metal, along with the evolution of hydrogen gas a salt is formed which has a negative ion composed of the metal and oxygen.
-When an acid reacts with a metal carbonate or metal hydrogen carbonate, it gives the corresponding salt, carbon dioxide gas and water.
-Acidic and basic solutions in water conduct electricity because they produce hydrogen and hydroxide ions respectively.
-The strength of an acid or an alkali can be tested by using a scale called the pH scale (0-14) which gives the measure of hydrogen ion concentration in a solution.
-A neutral solution has a pH of exactly 7, while an acidic solution has a pH less than 7 and a basic solution a pH more than 7.
+Formation of OH–(aq) ions in solution is responsible for the basic nature of a
+substance.
+When an acid reacts with a metal, hydrogen gas is evolved and a corresponding
+salt is formed.
+When a base reacts with a metal, along with the evolution of hydrogen gas a salt is
+formed which has a negative ion composed of the metal and oxygen.
+When an acid reacts with a metal carbonate or metal hydrogen carbonate, it gives
+the corresponding salt, carbon dioxide gas and water.
+Acidic and basic solutions in water conduct electricity because they produce
+hydrogen and hydroxide ions respectively.
+The strength of an acid or an alkali can be tested by using a scale called the pH
+scale (0-14) which gives the measure of hydrogen ion concentration in a solution.
+A neutral solution has a pH of exactly 7, while an acidic solution has a pH less
+than 7 and a basic solution a pH more than 7.
 Living beings carry out their metabolic activities within an optimal pH range.
 Mixing concentrated acids or bases with water is a highly exothermic process.
 Acids and bases neutralise each other to form corresponding salts and water.
-Water of crystallisation is the fixed number of water molecules present in one formula unit of a salt.
+Water of crystallisation is the fixed number of water molecules present in one formula
+unit of a salt.
 Salts have various uses in everyday life and in industries.
-Elements can be classified as metals and non-metals.
-Metals are lustrous, malleable, ductile and are good conductors of heat and electricity. They are solids at room temperature, except mercury which is a liquid.
-Metals can form positive ions by losing electrons to non-metals.
-Metals combine with oxygen to form basic oxides. Aluminium oxide and zinc oxide show the properties of both basic as well as acidic oxides. These oxides are known as amphoteric oxides.
+n Elements can be classified as metals and non-metals.
+n Metals are lustrous, malleable, ductile and are good conductors of heat and
+electricity. They are solids at room temperature, except mercury which is a liquid.
+n Metals can form positive ions by losing electrons to non-metals.
+n Metals combine with oxygen to form basic oxides. Aluminium oxide and zinc oxide
+show the properties of both basic as well as acidic oxides. These oxides are known
+as amphoteric oxides.
 Different metals have different reactivities with water and dilute acids.
-A list of common metals arranged in order of their decreasing reactivity is known as an activity series.
-Metals above hydrogen in the Activity series can displace hydrogen from dilute acids.
+A list of common metals arranged in order of their decreasing reactivity is known
+as an activity series.
+Metals above hydrogen in the Activity series can displace hydrogen from dilute
+acids.
 A more reactive metal displaces a less reactive metal from its salt solution.
 Metals occur in nature as free elements or in the form of their compounds.
-The extraction of metals from their ores and then refining them for use is known as metallurgy.
-An alloy is a homogeneous mixture of two or more metals, or a metal and a non-metal.
-The surface of some metals, such as iron, is corroded when they are exposed to moist air for a long period of time. This phenomenon is known as corrosion.
+The extraction of metals from their ores and then refining them for use is known
+as metallurgy.
+An alloy is a homogeneous mixture of two or more metals, or a metal and a
+non-metal.
+The surface of some metals, such as iron, is corroded when they are exposed to
+moist air for a long period of time. This phenomenon is known as corrosion.
 Non-metals have properties opposite to that of metals. They are neither malleable
-nor ductile. They are bad conductors of heat and electricity, except for graphite, which conducts electricity.
-Carbon is a versatile element that forms the basis for all living organisms and many of the things we use.
-This large variety of compounds is formed by carbon because of its tetravalency and the property of catenation that it exhibits.
-Covalent bonds are formed by the sharing of electrons between two atoms so that both can achieve a completely filled outermost shell.
-Carbon forms covalent bonds with itself and other elements such as hydrogen, oxygen, sulphur, nitrogen and chlorine.
-Carbon also forms compounds containing double and triple bonds between carbon atoms. These carbon chains may be in the form of straight chains, branched chains or rings.
-The ability of carbon to form chains gives rise to a homologous series of compounds in which the same functional group is attached to carbon chains of different lengths.
-The functional groups such as alcohols, aldehydes, ketones and carboxylic acids bestow characteristic properties to the carbon compounds that contain them.
+nor ductile. They are bad conductors of heat and electricity, except for graphite,
+which conducts electricity.
+Carbon is a versatile element that forms the basis for all living organisms and many
+of the things we use.
+This large variety of compounds is formed by carbon because of its tetravalency
+and the property of catenation that it exhibits.
+n Covalent bonds are formed by the sharing of electrons between two atoms so that
+both can achieve a completely filled outermost shell.
+Carbon forms covalent bonds with itself and other elements such as hydrogen,
+oxygen, sulphur, nitrogen and chlorine.
+n Carbon also forms compounds containing double and triple bonds between carbon
+atoms. These carbon chains may be in the form of straight chains, branched chains
+or rings.
+The ability of carbon to form chains gives rise to a homologous series of compounds
+in which the same functional group is attached to carbon chains of different lengths.
+The functional groups such as alcohols, aldehydes, ketones and carboxylic acids
+bestow characteristic properties to the carbon compounds that contain them.
 Carbon and its compounds are some of our major sources of fuels.
 Ethanol and ethanoic acid are carbon compounds of importance in our daily lives.
-The action of soaps and detergents is based on the presence of both hydrophobic and hydrophilic groups in the molecule and this helps to emulsify the oily dirt and hence its removal.
+The action of soaps and detergents is based on the presence of both hydrophobic
+and hydrophilic groups in the molecule and this helps to emulsify the oily dirt and
+hence its removal.
 Movement of various types can be taken as an indication of life.
-Maintenance of life requires processes like nutrition, respiration, transport of materials within the body and excretion of waste products.
+Maintenance of life requires processes like nutrition, respiration, transport of
+materials within the body and excretion of waste products.
 Autotrophic nutrition involves the intake of simple inorganic materials from the
-environment and using an external energy source like the Sun to synthesise complex high-energy organic material.
-Heterotrophic nutrition involves the intake of complex material prepared by other organisms.
-In human beings, the food eaten is broken down by various steps along the alimentary canal and the digested food is absorbed in the small intestine to be sent to all cells in the body.
-During the process of respiration, organic compounds such as glucose are broken down to provide energy in the form of ATP. ATP is used to provide energy for
-other reactions in the cell.
+environment and using an external energy source like the Sun to synthesise complex
+high-energy organic material.
+Heterotrophic nutrition involves the intake of complex material prepared by other
+organisms.
+In human beings, the food eaten is broken down by various steps along the
+alimentary canal and the digested food is absorbed in the small intestine to be sent
+to all cells in the body.
+During the process of respiration, organic compounds such as glucose are broken
+down to provide energy in the form of ATP. ATP is used to provide energy for other
+reactions in the cell.
 Respiration may be aerobic or anaerobic. Aerobic respiration makes more energy
 available to the organism.
 In human beings, the transport of materials such as oxygen, carbon dioxide, food
@@ -91,30 +133,49 @@ Organisms such as hydra can regenerate if they are broken into pieces. They can
 also give out buds which mature into new individuals.
 Roots, stems and leaves of some plants develop into new plants through vegetative
 propagation.
-These are examples of asexual reproduction where new generations are created from a single individual.
+These are examples of asexual reproduction where new generations are created
+from a single individual.
 Sexual reproduction involves two individuals for the creation of a new individual.
 DNA copying mechanisms creates variations which are useful for ensuring the
-survival of the species. Modes of sexual reproduction allow for greater variation to be generated.
-Reproduction in flowering plants involves transfer of pollen grains from the anther to the stigma which is referred to as pollination. This is followed by fertilisation.
-Changes in the body at puberty, such as increase in breast size in girls and new facial hair growth in boys, are signs of sexual maturation.
-The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.
-The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina.
-Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.
-Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper-T and other methods.
-Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.
-Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.
-Sex is determined by different factors in various species. In human beings, the sex of the child depends on whether the paternal chromosome is X (for girls) or Y (for boys).
+survival of the species. Modes of sexual reproduction allow for greater variation to
+be generated.
+Reproduction in flowering plants involves transfer of pollen grains from the anther
+to the stigma which is referred to as pollination. This is followed by fertilisation.
+Changes in the body at puberty, such as increase in breast size in girls and new
+facial hair growth in boys, are signs of sexual maturation.
+The male reproductive system in human beings consists of testes which produce
+sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.
+The female reproductive system in human beings consists of ovaries, fallopian
+tubes, uterus and vagina.
+Sexual reproduction in human beings involves the introduction of sperm in the
+vagina of the female. Fertilisation occurs in the fallopian tube.
+Contraception to avoid pregnancy can be achieved by the use of condoms, oral
+pills, copper-T and other methods.
+Sexually reproducing individuals have two copies of genes for the same trait. If the
+copies are not identical, the trait that gets expressed is called the dominant trait
+and the other is called the recessive trait.
+Traits in one individual may be inherited separately, giving rise to new combinations
+of traits in the offspring of sexual reproduction.
+Sex is determined by different factors in various species. In human beings, the
+sex of the child depends on whether the paternal chromosome is X (for girls) or Y
+(for boys).
 Light seems to travel in straight lines.
-Mirrors and lenses form images of objects. Images can be either real or virtual, depending on the position of the object.
-The reflecting surfaces, of all types, obey the laws of reflection. The refracting surfaces obey the laws of refraction.
+Mirrors and lenses form images of objects. Images can be either real or virtual,
+depending on the position of the object.
+The reflecting surfaces, of all types, obey the laws of reflection. The refracting
+surfaces obey the laws of refraction.
 n Mirror formula,
 1 1 1
 + =
 v u f
 , gives the relationship between the object-distance (u),
 image-distance (v), and focal length (f) of a spherical mirror.
-The focal length of a spherical mirror is equal to half its radius of curvature.The magnification produced by a spherical mirror is the ratio of the height of the image to the height of the object.
-A light ray travelling obliquely from a denser medium to a rarer medium bends away from the normal. A light ray bends towards the normal when it travels obliquely from a rarer to a denser medium.
+The focal length of a spherical mirror is equal to half its radius of curvature.
+The magnification produced by a spherical mirror is the ratio of the height of the
+image to the height of the object.
+A light ray travelling obliquely from a denser medium to a rarer medium bends
+away from the normal. A light ray bends towards the normal when it travels obliquely
+from a rarer to a denser medium.
 Light travels in vacuum with an enormous speed of 3×108 m s-1. The speed of light
 is different in different media.
 The refractive index of a transparent medium is the ratio of the speed of light in
@@ -160,16 +221,29 @@ called a north pole, and the other end, which points towards south, is called a
 south pole.
 A magnetic field exists in the region surrounding a magnet, in which the force of
 the magnet can be detected.
-Field lines are used to represent a magnetic field. A field line is the path along which a hypothetical free north pole would tend to move. The direction of the magnetic field at a point is given by the direction that a north pole placed at that point would take. Field lines are shown closer together where the magnetic field is greater.
+Field lines are used to represent a magnetic field. A field line is the path along
+which a hypothetical free north pole would tend to move. The direction of the
+magnetic field at a point is given by the direction that a north pole placed at that
+point would take. Field lines are shown closer together where the magnetic field is
+greater.
 A metallic wire carrying an electric current has associated with it a magnetic field.
-The field lines about the wire consist of a series of concentric circles whose direction is given by the right-hand rule.
-The pattern of the magnetic field around a conductor due to an electric current flowing through it depends on the shape of the conductor. The magnetic field of a solenoid carrying a current is similar to that of a bar magnet.
-An electromagnet consists of a core of soft iron wrapped around with a coil of insulated copper wire.
+The field lines about the wire consist of a series of concentric circles whose direction
+is given by the right-hand rule.
+The pattern of the magnetic field around a conductor due to an electric current
+flowing through it depends on the shape of the conductor. The magnetic field of a
+solenoid carrying a current is similar to that of a bar magnet.
+An electromagnet consists of a core of soft iron wrapped around with a coil of
+insulated copper wire.
 A current-carrying conductor when placed in a magnetic field experiences a force.
 If the direction of the field and that of the current are mutually perpendicular to
 each other, then the force acting on the conductor will be perpendicular to both
 and will be given by Fleming’s left-hand rule.
-In our houses we receive AC electric power of 220 V with a frequency of 50 Hz. One of the wires in this supply is with red insulation, called live wire. The other one is of black insulation, which is a neutral wire. The potential difference between the two is 220 V. The third is the earth wire that has green insulation and this is connected to a metallic body deep inside earth. It is used as a safety measure to ensure that any leakage of current to a metallic body does not give any severe shock to a user.
+In our houses we receive AC electric power of 220 V with a frequency of 50 Hz. One
+of the wires in this supply is with red insulation, called live wire. The other one is of
+black insulation, which is a neutral wire. The potential difference between the two
+is 220 V. The third is the earth wire that has green insulation and this is connected
+to a metallic body deep inside earth. It is used as a safety measure to ensure that
+any leakage of current to a metallic body does not give any severe shock to a user.
 Fuse is the most important safety device, used for protecting the circuits due to
 short-circuiting or overloading of the circuits.
 The use of chemicals like CFCs has endangered the ozone layer. Since the ozone
